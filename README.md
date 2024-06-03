@@ -13,7 +13,7 @@
 * запускаем composer install
 * php -S localhost:8000 'public/index.php'
 * использовал mvc
-- переход по страницам 
+переход по страницам 
 - /route1
 - /route2
 - /route3

@@ -27,4 +27,5 @@
 
 ### postgresql
 
-query.sql как более удобно запустить код в postgresql 
+- query.sql 
+- запустить код в postgresql 
